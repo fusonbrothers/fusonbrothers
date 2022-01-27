@@ -1,27 +1,21 @@
-## Welcome to GitHub Pages
+## SUP LOKO
 
-You can use the [editor on GitHub](https://github.com/klienspeigleman/fusonbrothers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TAKE PICS OF YO ISH 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ALLLLLLRIGHT
 ```markdown
-Syntax highlighted code block
+much luv
+# Fuson bros
+## Fuson bros
+### Fuson bros
 
-# Header 1
-## Header 2
-### Header 3
+- :)
+- :)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
