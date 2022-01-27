@@ -3,8 +3,6 @@
 
 TAKE PICS OF YO ISH 
 
-### Markdown
-
 ALLLLLLRIGHT
 ```markdown
 much luv
@@ -18,6 +16,6 @@ much luv
 
 
 
-[Link](url) and ![Image](src)
+<!-- [Link](url) and ![Image](src) -->
 ```
 
